@@ -35,6 +35,7 @@ Configuring in config.pm:
 		LOGNAME     => "whoisSpider";
 
 Database structure (more info please see in ./DbModel):
+
     mysql> desc domains;
     +-----------+--------------+------+-----+---------+----------------+
     | Field     | Type         | Null | Key | Default | Extra          |
