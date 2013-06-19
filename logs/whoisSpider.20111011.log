@@ -1,0 +1,356 @@
+[23:09:32] In getDomainsList
+[23:09:32] Connected successfully
+[23:09:32] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:09:32] setError: DOMAINS NOT FOUND
+[23:10:04] In getDomainsList
+[23:10:04] Connected successfully
+[23:10:04] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:10:04] setError: DOMAINS NOT FOUND
+[23:10:16] In getDomainsList
+[23:10:16] Connected successfully
+[23:10:16] Query: SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:10:16] setError: DB ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:10:51] In getDomainsList
+[23:10:51] Connected successfully
+[23:10:51] Query: SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:10:51] setError: DB ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:13:12] In getDomainsList
+[23:13:12] Connected successfully
+[23:13:12] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:13:12] setError: DOMAINS NOT FOUND
+[23:14:00] In getDomainsList
+[23:14:00] Connected successfully
+[23:14:00] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:14:00] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:14:00] Closing database connection
+[23:14:44] In getDomainsList
+[23:14:44] Connected successfully
+[23:14:44] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:14:44] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:14:44] Closing database connection
+[23:23:26] In getDomainsList
+[23:23:26] Connected successfully
+[23:23:26] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:23:26] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:23:26] Closing database connection
+[23:24:56] In getDomainsList
+[23:24:56] Connected successfully
+[23:24:56] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:24:56] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:24:56] Closing database connection
+[23:25:15] In getDomainsList
+[23:25:15] Connected successfully
+[23:25:15] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:25:15] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:25:15] Closing database connection
+[23:25:15] Encoded Domain Name ::: kremlin.ru
+[23:25:15] Encoded Domain Name ::: sex.ru
+[23:25:15] Encoded Domain Name ::: render.ru
+[23:25:15] Encoded Domain Name ::: yandex.ru
+[23:25:36] In getDomainsList
+[23:25:36] Connected successfully
+[23:25:36] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:25:36] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:25:36] Closing database connection
+[23:25:36] Encoded Domain Name ::: президент.рф
+[23:28:50] In getDomainsList
+[23:28:50] Connected successfully
+[23:28:50] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:28:50] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:28:50] Closing database connection
+[23:28:50] Encoded Domain Name ::: президент.рф
+[23:29:35] In getDomainsList
+[23:29:35] Connected successfully
+[23:29:35] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:29:35] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:29:35] Closing database connection
+[23:29:35] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:29:53] In getDomainsList
+[23:29:53] Connected successfully
+[23:29:53] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:29:53] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:29:53] Closing database connection
+[23:29:53] Encoded Domain Name ::: xn--kremlin-.xn--ru-
+[23:29:53] Encoded Domain Name ::: xn--sex-.xn--ru-
+[23:29:53] Encoded Domain Name ::: xn--render-.xn--ru-
+[23:29:53] Encoded Domain Name ::: xn--yandex-.xn--ru-
+[23:33:47] In getDomainsList
+[23:33:47] Connected successfully
+[23:33:47] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:33:47] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:33:47] Closing database connection
+[23:33:47] Encoded Domain Name ::: президент.рф
+[23:33:59] In getDomainsList
+[23:33:59] Connected successfully
+[23:33:59] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:33:59] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:33:59] Closing database connection
+[23:33:59] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:34:08] In getDomainsList
+[23:34:08] Connected successfully
+[23:34:08] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:34:08] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:34:08] Closing database connection
+[23:34:08] Encoded Domain Name ::: kremlin.ru
+[23:34:08] Encoded Domain Name ::: sex.ru
+[23:34:08] Encoded Domain Name ::: render.ru
+[23:34:08] Encoded Domain Name ::: yandex.ru
+[23:37:24] In getDomainsList
+[23:37:24] Connected successfully
+[23:37:24] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:37:24] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:37:24] Closing database connection
+[23:37:24] Encoded Domain Name ::: kremlin.ru
+[23:37:24] Encoded Domain Name ::: sex.ru
+[23:37:24] Encoded Domain Name ::: render.ru
+[23:37:24] Encoded Domain Name ::: yandex.ru
+[23:37:54] In getDomainsList
+[23:37:54] Connected successfully
+[23:37:54] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:37:54] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'ku-ku.ru' => '10',
+          'yandex.ru' => '3'
+        };
+
+[23:37:54] Closing database connection
+[23:37:54] Encoded Domain Name ::: kremlin.ru
+[23:37:54] Encoded Domain Name ::: sex.ru
+[23:37:54] Encoded Domain Name ::: render.ru
+[23:37:54] Encoded Domain Name ::: ku-ku.ru
+[23:37:54] Encoded Domain Name ::: yandex.ru
+[23:38:54] In getDomainsList
+[23:38:54] Connected successfully
+[23:38:54] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:38:54] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'ku-ku.ru' => '10',
+          'yandex.ru' => '3'
+        };
+
+[23:38:54] Closing database connection
+[23:38:54] Encoded Domain Name ::: kremlin.ru
+[23:38:54] Encoded Domain Name ::: sex.ru
+[23:38:54] Encoded Domain Name ::: render.ru
+[23:38:54] Encoded Domain Name ::: ku-ku.ru
+[23:38:54] Encoded Domain Name ::: yandex.ru
+[23:41:06] In getDomainsList
+[23:41:06] Connected successfully
+[23:41:06] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:41:06] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'ku-ku.ru' => '10',
+          'yandex.ru' => '3'
+        };
+
+[23:41:06] Closing database connection
+[23:41:12] In getDomainsList
+[23:41:12] Connected successfully
+[23:41:12] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:41:12] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'ku-ku.ru' => '10',
+          'yandex.ru' => '3'
+        };
+
+[23:41:12] Closing database connection
+[23:41:28] In getDomainsList
+[23:41:28] Connected successfully
+[23:41:28] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:41:28] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:41:28] Closing database connection
+[23:41:28] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:42:35] In getDomainsList
+[23:42:35] Connected successfully
+[23:42:35] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:42:35] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:42:35] Closing database connection
+[23:42:35] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:43:06] In getDomainsList
+[23:43:06] Connected successfully
+[23:43:06] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:43:06] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:43:06] Closing database connection
+[23:43:06] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:44:16] In getDomainsList
+[23:44:16] Connected successfully
+[23:44:16] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:44:16] $VAR1 = {
+          'президент.рф' => '8'
+        };
+
+[23:44:16] Closing database connection
+[23:44:16] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:45:18] In getDomainsList
+[23:45:18] Connected successfully
+[23:45:18] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:45:18] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:45:18] Closing database connection
+[23:45:18] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:45:18] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:46:00] In getDomainsList
+[23:46:00] Connected successfully
+[23:46:00] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:46:00] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:46:00] Closing database connection
+[23:46:00] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:46:00] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:46:29] In getDomainsList
+[23:46:29] Connected successfully
+[23:46:29] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:46:29] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:46:29] Closing database connection
+[23:46:29] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:46:29] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:47:48] In getDomainsList
+[23:47:48] Connected successfully
+[23:47:48] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:47:48] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:47:48] Closing database connection
+[23:47:48] Splited word: президент
+[23:47:48] Splited word: рф
+[23:47:48] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:47:48] Splited word: Секс
+[23:47:48] Splited word: РФ
+[23:47:48] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:49:52] In getDomainsList
+[23:49:52] Connected successfully
+[23:49:52] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:49:52] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:49:52] Closing database connection
+[23:49:52] Splited word: президент
+[23:49:52] Splited word: рф
+[23:49:52] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:49:52] Splited word: Секс
+[23:49:52] Splited word: РФ
+[23:49:52] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:52:37] In getDomainsList
+[23:52:37] Connected successfully
+[23:52:37] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:52:37] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:52:37] Closing database connection
+[23:52:37] Splited word: президент
+[23:52:37] Splited word: рф
+[23:52:37] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:52:37] Splited word: Секс
+[23:52:37] Splited word: РФ
+[23:52:37] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai
+[23:56:03] In getDomainsList
+[23:56:03] Connected successfully
+[23:56:03] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:56:03] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '12'
+        };
+
+[23:56:03] Closing database connection
+[23:56:03] Splited word: президент
+[23:56:03] Splited word: рф
+[23:56:03] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[23:56:03] Splited word: Секс
+[23:56:03] Splited word: РФ
+[23:56:03] Encoded Domain Name ::: xn--t0a4bp2a.xn--s0ai

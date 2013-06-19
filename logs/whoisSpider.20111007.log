@@ -1,0 +1,226 @@
+[22:52:15] In getDomainsList
+[22:52:15] Connected successfully
+[22:52:15] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:52:15] Closing database connection
+[22:53:39] In getDomainsList
+[22:53:39] Connected successfully
+[22:53:39] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:53:39] Closing database connection
+[22:54:17] In getDomainsList
+[22:54:17] Connected successfully
+[22:54:17] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:54:17] Closing database connection
+[22:54:28] In getDomainsList
+[22:54:28] Connected successfully
+[22:54:28] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:54:28] Closing database connection
+[22:57:33] In getDomainsList
+[22:57:33] Connected successfully
+[22:57:33] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:57:33] Closing database connection
+[22:59:24] In getDomainsList
+[22:59:24] Connected successfully
+[22:59:24] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:59:57] In getDomainsList
+[22:59:57] Connected successfully
+[22:59:57] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:00:20] In getDomainsList
+[23:00:20] Connected successfully
+[23:00:20] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:01:11] In getDomainsList
+[23:01:11] Connected successfully
+[23:01:11] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:05:33] In getDomainsList
+[23:05:33] Connected successfully
+[23:05:33] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:07:12] In getDomainsList
+[23:07:12] Connected successfully
+[23:07:12] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:07:52] In getDomainsList
+[23:07:52] Connected successfully
+[23:07:52] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:08:13] In getDomainsList
+[23:08:13] Connected successfully
+[23:08:13] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:09:27] In getDomainsList
+[23:09:27] Connected successfully
+[23:09:27] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:09:55] In getDomainsList
+[23:09:55] Connected successfully
+[23:09:55] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:10:27] In getDomainsList
+[23:10:27] Connected successfully
+[23:10:27] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:10:47] In getDomainsList
+[23:10:47] Connected successfully
+[23:10:47] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:17:50] In getDomainsList
+[23:17:50] Connected successfully
+[23:17:50] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:18:21] In getDomainsList
+[23:18:21] Connected successfully
+[23:18:21] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:18:42] In getDomainsList
+[23:18:42] Connected successfully
+[23:18:42] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:20:16] In getDomainsList
+[23:20:16] Connected successfully
+[23:20:16] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:21:31] In getDomainsList
+[23:21:31] Connected successfully
+[23:21:31] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:21:41] In getDomainsList
+[23:21:41] Connected successfully
+[23:21:41] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:22:59] In getDomainsList
+[23:22:59] Connected successfully
+[23:22:59] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:23:09] In getDomainsList
+[23:23:09] Connected successfully
+[23:23:09] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:23:19] In getDomainsList
+[23:23:19] Connected successfully
+[23:23:19] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:23:37] In getDomainsList
+[23:23:37] Connected successfully
+[23:23:37] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:23:46] In getDomainsList
+[23:23:46] Connected successfully
+[23:23:46] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:24:10] In getDomainsList
+[23:24:10] Connected successfully
+[23:24:10] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:24:10] setError: DOMAINS NOT FOUND
+[23:24:18] In getDomainsList
+[23:24:18] Connected successfully
+[23:24:18] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:26:38] In getDomainsList
+[23:26:38] Connected successfully
+[23:26:38] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:30:43] In getDomainsList
+[23:30:43] Connected successfully
+[23:30:43] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:34:09] In getDomainsList
+[23:34:09] Connected successfully
+[23:34:09] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:34:09] Closing database connection
+[23:34:50] In getDomainsList
+[23:34:50] Connected successfully
+[23:34:50] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:34:50] Closing database connection
+[23:34:50] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:35:07] In getDomainsList
+[23:35:07] Connected successfully
+[23:35:07] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:35:07] Closing database connection
+[23:35:07] $VAR1 = {
+          'kremlin.ru' => '5',
+          'sex.ru' => '4',
+          'render.ru' => '2',
+          'yandex.ru' => '3'
+        };
+
+[23:37:30] In getDomainsList
+[23:37:30] Connected successfully
+[23:37:30] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:37:30] setError: DOMAINS NOT FOUND
+[23:40:24] In getDomainsList
+[23:40:24] Connected successfully
+[23:40:24] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:40:24] setError: DOMAINS NOT FOUND
+[23:41:07] In getDomainsList
+[23:41:07] Connected successfully
+[23:41:07] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:41:07] setError: DOMAINS NOT FOUND
+[23:42:57] In getDomainsList
+[23:42:57] Connected successfully
+[23:42:57] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:44:27] In getDomainsList
+[23:44:27] Connected successfully
+[23:44:27] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:44:27] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:45:00] In getDomainsList
+[23:45:00] Connected successfully
+[23:45:00] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:45:00] 1064
+[23:45:33] In getDomainsList
+[23:45:33] Connected successfully
+[23:45:33] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:46:09] In getDomainsList
+[23:46:09] Connected successfully
+[23:46:09] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:48:02] In getDomainsList
+[23:48:02] Connected successfully
+[23:48:02] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:48:10] In getDomainsList
+[23:48:10] Connected successfully
+[23:48:10] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:48:42] In getDomainsList
+[23:48:42] Connected successfully
+[23:48:42] Query: SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:48:42] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT1111 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:48:55] In getDomainsList
+[23:48:55] Connected successfully
+[23:48:55] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:48:55] 
+[23:49:15] In getDomainsList
+[23:49:15] Connected successfully
+[23:49:15] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:49:15] setError: DOMAINS NOT FOUND
+[23:49:28] In getDomainsList
+[23:49:28] Connected successfully
+[23:49:28] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:49:28] setError: DOMAINS NOT FOUND
+[23:50:29] In getDomainsList
+[23:50:29] Connected successfully
+[23:50:29] Query: SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:50:51] In getDomainsList
+[23:50:51] Connected successfully
+[23:50:51] Query: SELECT111 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:52:44] In getDomainsList
+[23:52:44] Connected successfully
+[23:52:44] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:53:58] In getDomainsList
+[23:53:58] Connected successfully
+[23:53:58] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:54:40] In getDomainsList
+[23:54:40] Connected successfully
+[23:54:40] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:54:40] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:55:58] In getDomainsList
+[23:55:58] Connected successfully
+[23:55:58] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:55:58] 1064 :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:56:39] In getDomainsList
+[23:56:39] Connected successfully
+[23:56:39] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:56:39] 1064 :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:13] In getDomainsList
+[23:57:13] Connected successfully
+[23:57:13] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:57:13] 1064 :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:13] setError: DOMAINS NOT FOUNDYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:13] DOMAINS NOT FOUNDYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:20] In getDomainsList
+[23:57:20] Connected successfully
+[23:57:20] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:57:20] setError: DOMAINS NOT FOUNDYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:20] DOMAINS NOT FOUNDYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:57:49] In getDomainsList
+[23:57:49] Connected successfully
+[23:57:49] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:57:49] setError: DOMAINS NOT FOUNDYou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:58:01] In getDomainsList
+[23:58:01] Connected successfully
+[23:58:01] Query: SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:58:01] setError: DOMAINS NOT FOUND You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTi11 domain, domain_id FROM domains WHERE Tld='.xxx'' at line 1
+[23:58:32] In getDomainsList
+[23:58:32] Connected successfully
+[23:58:32] Query: SELECT domain, domain_id FROM domains WHERE Tld='.xxx'
+[23:58:32] setError: DOMAINS NOT FOUND 

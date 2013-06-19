@@ -1,0 +1,389 @@
+[00:00:36] In getDomainsList
+[00:00:36] Connected successfully
+[00:00:36] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[00:00:36] $VAR1 = {
+          'президент.рф' => '8',
+          'Секс.РФ' => '9'
+        };
+
+[00:00:36] Closing database connection
+[00:00:36] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[00:00:36] Encoded Domain Name ::: xn--e1aktc.xn--p1ai
+[00:09:39] In getDomainsList
+[00:09:39] Connected successfully
+[00:09:39] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:09:39] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:09:39] Closing database connection
+[00:09:56] In getDomainsList
+[00:09:56] Connected successfully
+[00:09:56] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:09:56] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:09:56] Closing database connection
+[00:09:56] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RENDER.RU
+nserver:    ns1.render.ru. 81.9.6.2
+nserver:    ns2.render.ru. 81.222.132.251
+state:      REGISTERED, DELEGATED, VERIFIED
+person:     Private Person
+e-mail:     stas@als.ru
+e-mail:     tech@als.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1999.11.19
+paid-till:  2011.12.01
+source:     TCI
+
+Last updated on 2011.10.13 01:05:46 MSK/MSD
+
+
+[00:09:56] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     YANDEX.RU
+nserver:    ns1.yandex.ru. 213.180.193.1
+nserver:    ns2.yandex.ru. 213.180.199.34
+nserver:    ns4.yandex.ru. 77.88.19.60
+nserver:    ns5.yandex.ru. 213.180.204.1
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        YANDEX, LLC.
+phone:      +7 495 7397000
+fax-no:     +7 495 7397070
+e-mail:     noc@yandex.net
+registrar:  RU-CENTER-REG-RIPN
+created:    1997.09.23
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.10.13 01:05:46 MSK/MSD
+
+
+[00:09:57] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RAMBLER.RU
+nserver:    ns2.rambler.ru. 81.19.66.61
+nserver:    ns3.rambler.ru. 81.19.66.62
+nserver:    ns4.rambler.ru. 81.19.67.89
+nserver:    ns5.rambler.ru. 81.19.67.90
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        Rambler Internet Holdings, LLC
+phone:      +7 495 9892909
+fax-no:     +7 495 9892908
+e-mail:     dns@rambler-co.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1996.09.26
+paid-till:  2012.08.01
+source:     TCI
+
+Last updated on 2011.10.13 01:05:46 MSK/MSD
+
+
+[00:12:58] In getDomainsList
+[00:12:58] Connected successfully
+[00:12:58] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:12:58] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:12:58] Closing database connection
+[00:12:58] --------------------------------------------------------------------------------% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RENDER.RU
+nserver:    ns1.render.ru. 81.9.6.2
+nserver:    ns2.render.ru. 81.222.132.251
+state:      REGISTERED, DELEGATED, VERIFIED
+person:     Private Person
+e-mail:     stas@als.ru
+e-mail:     tech@als.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1999.11.19
+paid-till:  2011.12.01
+source:     TCI
+
+Last updated on 2011.10.13 01:10:46 MSK/MSD
+
+
+[00:12:58] --------------------------------------------------------------------------------% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     YANDEX.RU
+nserver:    ns1.yandex.ru. 213.180.193.1
+nserver:    ns2.yandex.ru. 213.180.199.34
+nserver:    ns4.yandex.ru. 77.88.19.60
+nserver:    ns5.yandex.ru. 213.180.204.1
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        YANDEX, LLC.
+phone:      +7 495 7397000
+fax-no:     +7 495 7397070
+e-mail:     noc@yandex.net
+registrar:  RU-CENTER-REG-RIPN
+created:    1997.09.23
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.10.13 01:10:46 MSK/MSD
+
+
+[00:12:59] --------------------------------------------------------------------------------% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RAMBLER.RU
+nserver:    ns2.rambler.ru. 81.19.66.61
+nserver:    ns3.rambler.ru. 81.19.66.62
+nserver:    ns4.rambler.ru. 81.19.67.89
+nserver:    ns5.rambler.ru. 81.19.67.90
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        Rambler Internet Holdings, LLC
+phone:      +7 495 9892909
+fax-no:     +7 495 9892908
+e-mail:     dns@rambler-co.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1996.09.26
+paid-till:  2012.08.01
+source:     TCI
+
+Last updated on 2011.10.13 01:10:46 MSK/MSD
+
+
+[00:27:39] In getDomainsList
+[00:27:39] Connected successfully
+[00:27:39] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:27:39] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:27:39] Closing database connection
+[00:27:42] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RENDER.RU
+nserver:    ns1.render.ru. 81.9.6.2
+nserver:    ns2.render.ru. 81.222.132.251
+state:      REGISTERED, DELEGATED, VERIFIED
+person:     Private Person
+e-mail:     stas@als.ru
+e-mail:     tech@als.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1999.11.19
+paid-till:  2011.12.01
+source:     TCI
+
+Last updated on 2011.10.13 01:25:46 MSK/MSD
+
+
+[00:27:42] In saveWhoisInfo
+[00:27:42] Connected successfully
+[00:27:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '1')
+[00:27:42] Closing database connection
+[00:27:42] WhoisInfo has been saved successfully
+[00:27:42] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     YANDEX.RU
+nserver:    ns1.yandex.ru. 213.180.193.1
+nserver:    ns2.yandex.ru. 213.180.199.34
+nserver:    ns4.yandex.ru. 77.88.19.60
+nserver:    ns5.yandex.ru. 213.180.204.1
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        YANDEX, LLC.
+phone:      +7 495 7397000
+fax-no:     +7 495 7397070
+e-mail:     noc@yandex.net
+registrar:  RU-CENTER-REG-RIPN
+created:    1997.09.23
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.10.13 01:25:46 MSK/MSD
+
+
+[00:27:42] In saveWhoisInfo
+[00:27:42] Connected successfully
+[00:27:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '2')
+[00:27:42] Closing database connection
+[00:27:42] WhoisInfo has been saved successfully
+[00:27:43] % By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RAMBLER.RU
+nserver:    ns2.rambler.ru. 81.19.66.61
+nserver:    ns3.rambler.ru. 81.19.66.62
+nserver:    ns4.rambler.ru. 81.19.67.89
+nserver:    ns5.rambler.ru. 81.19.67.90
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        Rambler Internet Holdings, LLC
+phone:      +7 495 9892909
+fax-no:     +7 495 9892908
+e-mail:     dns@rambler-co.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1996.09.26
+paid-till:  2012.08.01
+source:     TCI
+
+Last updated on 2011.10.13 01:25:46 MSK/MSD
+
+
+[00:27:43] In saveWhoisInfo
+[00:27:43] Connected successfully
+[00:27:43] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '3')
+[00:27:43] Closing database connection
+[00:27:43] WhoisInfo has been saved successfully
+[00:30:09] In getDomainsList
+[00:30:09] Connected successfully
+[00:30:09] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:30:09] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:30:09] Closing database connection
+[00:30:09] $VAR1 = '';
+
+[00:30:09] In saveWhoisInfo
+[00:30:09] Connected successfully
+[00:30:09] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '1')
+[00:30:09] Closing database connection
+[00:30:09] WhoisInfo has been saved successfully
+[00:30:10] $VAR1 = '';
+
+[00:30:10] In saveWhoisInfo
+[00:30:10] Connected successfully
+[00:30:10] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '2')
+[00:30:10] Closing database connection
+[00:30:10] WhoisInfo has been saved successfully
+[00:30:10] $VAR1 = '';
+
+[00:30:10] In saveWhoisInfo
+[00:30:10] Connected successfully
+[00:30:10] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('', NOW(), '3')
+[00:30:10] Closing database connection
+[00:30:10] WhoisInfo has been saved successfully
+[00:31:51] In getDomainsList
+[00:31:51] Connected successfully
+[00:31:51] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[00:31:51] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[00:31:51] Closing database connection
+[00:31:51] $VAR1 = '% By submitting a query to RIPN\'s Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RENDER.RU
+nserver:    ns1.render.ru. 81.9.6.2
+nserver:    ns2.render.ru. 81.222.132.251
+state:      REGISTERED, DELEGATED, VERIFIED
+person:     Private Person
+e-mail:     stas@als.ru
+e-mail:     tech@als.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1999.11.19
+paid-till:  2011.12.01
+source:     TCI
+
+Last updated on 2011.10.13 01:30:46 MSK/MSD
+
+';
+
+[00:31:51] In saveWhoisInfo
+[00:31:51] Connected successfully
+[00:31:51] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RENDER.RU\nnserver:    ns1.render.ru. 81.9.6.2\nnserver:    ns2.render.ru. 81.222.132.251\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     stas@als.ru\ne-mail:     tech@als.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.11.19\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.13 01:30:46 MSK/MSD\n\n', NOW(), '1')
+[00:31:51] Closing database connection
+[00:31:51] WhoisInfo has been saved successfully
+[00:31:52] $VAR1 = '% By submitting a query to RIPN\'s Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     YANDEX.RU
+nserver:    ns1.yandex.ru. 213.180.193.1
+nserver:    ns2.yandex.ru. 213.180.199.34
+nserver:    ns4.yandex.ru. 77.88.19.60
+nserver:    ns5.yandex.ru. 213.180.204.1
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        YANDEX, LLC.
+phone:      +7 495 7397000
+fax-no:     +7 495 7397070
+e-mail:     noc@yandex.net
+registrar:  RU-CENTER-REG-RIPN
+created:    1997.09.23
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.10.13 01:30:46 MSK/MSD
+
+';
+
+[00:31:52] In saveWhoisInfo
+[00:31:52] Connected successfully
+[00:31:52] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     YANDEX.RU\nnserver:    ns1.yandex.ru. 213.180.193.1\nnserver:    ns2.yandex.ru. 213.180.199.34\nnserver:    ns4.yandex.ru. 77.88.19.60\nnserver:    ns5.yandex.ru. 213.180.204.1\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        YANDEX, LLC.\nphone:      +7 495 7397000\nfax-no:     +7 495 7397070\ne-mail:     noc@yandex.net\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1997.09.23\npaid-till:  2012.10.01\nsource:     TCI\n\nLast updated on 2011.10.13 01:30:46 MSK/MSD\n\n', NOW(), '2')
+[00:31:52] Closing database connection
+[00:31:52] WhoisInfo has been saved successfully
+[00:31:52] $VAR1 = '% By submitting a query to RIPN\'s Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     RAMBLER.RU
+nserver:    ns2.rambler.ru. 81.19.66.61
+nserver:    ns3.rambler.ru. 81.19.66.62
+nserver:    ns4.rambler.ru. 81.19.67.89
+nserver:    ns5.rambler.ru. 81.19.67.90
+state:      REGISTERED, DELEGATED, VERIFIED
+org:        Rambler Internet Holdings, LLC
+phone:      +7 495 9892909
+fax-no:     +7 495 9892908
+e-mail:     dns@rambler-co.ru
+registrar:  RU-CENTER-REG-RIPN
+created:    1996.09.26
+paid-till:  2012.08.01
+source:     TCI
+
+Last updated on 2011.10.13 01:30:46 MSK/MSD
+
+';
+
+[00:31:52] In saveWhoisInfo
+[00:31:52] Connected successfully
+[00:31:52] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RAMBLER.RU\nnserver:    ns2.rambler.ru. 81.19.66.61\nnserver:    ns3.rambler.ru. 81.19.66.62\nnserver:    ns4.rambler.ru. 81.19.67.89\nnserver:    ns5.rambler.ru. 81.19.67.90\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Rambler Internet Holdings, LLC\nphone:      +7 495 9892909\nfax-no:     +7 495 9892908\ne-mail:     dns@rambler-co.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.09.26\npaid-till:  2012.08.01\nsource:     TCI\n\nLast updated on 2011.10.13 01:30:46 MSK/MSD\n\n', NOW(), '3')
+[00:31:52] Closing database connection
+[00:31:52] WhoisInfo has been saved successfully

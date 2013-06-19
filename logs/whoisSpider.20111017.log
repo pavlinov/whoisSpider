@@ -1,0 +1,154 @@
+[21:11:36] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:12:37] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:13:20] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:21:17] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:21:31] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:21:44] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:22:40] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:24:17] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:24:34] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:28:07] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:28:33] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:29:11] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:29:20] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:29:32] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:30:17] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:35:04] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:35:18] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:35:41] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:35:43] In getDomainsList
+[21:35:44] Connected successfully
+[21:35:44] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[21:35:44] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[21:35:44] Closing database connection
+[21:35:53] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:35:54] In getDomainsList
+[21:35:54] Connected successfully
+[21:35:54] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[21:35:54] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[21:35:54] Closing database connection
+[21:36:33] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[21:36:35] In getDomainsList
+[21:36:35] Connected successfully
+[21:36:35] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[21:36:35] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[21:36:35] Closing database connection
+[21:37:00] In getDomainsList
+[21:37:00] Connected successfully
+[21:37:00] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[21:37:00] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[21:37:00] Closing database connection
+[21:37:00] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[22:13:54] In getDomainsList
+[22:13:54] Connected successfully
+[22:13:54] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:13:54] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[22:13:54] Closing database connection
+[22:13:54] In saveWhoisInfo
+[22:13:54] Connected successfully
+[22:13:54] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('THIS IS TEST TEST TEST WHOIS INFO', NOW(), '10')
+[22:13:54] Closing database connection
+[22:13:54] WhoisInfo has been saved successfully
+[22:13:54] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[22:15:25] In getDomainsList
+[22:15:25] setError: DB CONNECT IS FAILED
+[22:16:16] In getDomainsList
+[22:16:16] setError: DB CONNECT IS FAILED
+[22:16:42] In getDomainsList
+[22:16:42] Connected successfully
+[22:16:42] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:16:42] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[22:16:42] Closing database connection
+[22:16:42] In saveWhoisInfo
+[22:16:42] Connected successfully
+[22:16:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('THIS IS TEST TEST TEST WHOIS INFO', NOW(), '10')
+[22:16:42] Closing database connection
+[22:16:42] WhoisInfo has been saved successfully
+[22:16:42] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[22:22:09] In getDomainsList
+[22:22:09] Connected successfully
+[22:22:09] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:22:09] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[22:22:09] Closing database connection
+[22:22:09] In saveWhoisInfo
+[22:22:09] Connected successfully
+[22:22:09] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('THIS IS TEST TEST TEST WHOIS INFO', NOW(), '10')
+[22:22:09] Closing database connection
+[22:22:09] WhoisInfo has been saved successfully
+[22:22:09] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[22:47:31] In getDomainsList
+[22:47:31] Connected successfully
+[22:47:31] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:47:31] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[22:47:31] Closing database connection
+[22:47:31] In saveWhoisInfo
+[22:47:31] Connected successfully
+[22:47:31] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('THIS IS TEST TEST TEST WHOIS INFO', NOW(), '10')
+[22:47:31] Closing database connection
+[22:47:31] WhoisInfo has been saved successfully
+[22:47:31] Encoded Domain Name ::: xn--d1abbgf6aiiy.xn--p1ai
+[22:47:41] In getDomainsList
+[22:47:41] Connected successfully
+[22:47:41] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:47:41] $VAR1 = {
+          'render.ru' => '1',
+          'yandex.ru' => '2',
+          'rambler.ru' => '3'
+        };
+
+[22:47:41] Closing database connection
+[22:47:42] In saveWhoisInfo
+[22:47:42] Connected successfully
+[22:47:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RENDER.RU\nnserver:    ns1.render.ru. 81.9.6.2\nnserver:    ns2.render.ru. 81.222.132.251\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     stas@als.ru\ne-mail:     tech@als.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.11.19\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.17 23:45:46 MSK/MSD\n\n', NOW(), '1')
+[22:47:42] Closing database connection
+[22:47:42] WhoisInfo has been saved successfully
+[22:47:42] In saveWhoisInfo
+[22:47:42] Connected successfully
+[22:47:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     YANDEX.RU\nnserver:    ns1.yandex.ru. 213.180.193.1\nnserver:    ns2.yandex.ru. 213.180.199.34\nnserver:    ns4.yandex.ru. 77.88.19.60\nnserver:    ns5.yandex.ru. 213.180.204.1\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        YANDEX, LLC.\nphone:      +7 495 7397000\nfax-no:     +7 495 7397070\ne-mail:     noc@yandex.net\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1997.09.23\npaid-till:  2012.10.01\nsource:     TCI\n\nLast updated on 2011.10.17 23:45:46 MSK/MSD\n\n', NOW(), '2')
+[22:47:42] Closing database connection
+[22:47:42] WhoisInfo has been saved successfully
+[22:47:42] In saveWhoisInfo
+[22:47:42] Connected successfully
+[22:47:42] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RAMBLER.RU\nnserver:    ns2.rambler.ru. 81.19.66.61\nnserver:    ns3.rambler.ru. 81.19.66.62\nnserver:    ns4.rambler.ru. 81.19.67.89\nnserver:    ns5.rambler.ru. 81.19.67.90\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Rambler Internet Holdings, LLC\nphone:      +7 495 9892909\nfax-no:     +7 495 9892908\ne-mail:     dns@rambler-co.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.09.26\npaid-till:  2012.08.01\nsource:     TCI\n\nLast updated on 2011.10.17 23:45:46 MSK/MSD\n\n', NOW(), '3')
+[22:47:42] Closing database connection
+[22:47:42] WhoisInfo has been saved successfully

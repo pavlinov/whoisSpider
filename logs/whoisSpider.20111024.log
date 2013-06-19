@@ -1,0 +1,345 @@
+[09:42:54] In getDomainsList
+[09:42:55] Connected successfully
+[09:42:55] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[09:42:55] $VAR1 = {
+          'opennet.ru' => '11',
+          'trinixy.ru' => '15',
+          'pereplet.ru' => '30',
+          'drweb.ru' => '23',
+          'yandex.ru' => '2',
+          'dwg.ru' => '19',
+          'rambler.ru' => '3',
+          'nefart.ru' => '18',
+          'webpark.ru' => '16',
+          'papa.ru' => '26',
+          'bugaga.ru' => '17',
+          'mama.ru' => '27',
+          'codenet.ru' => '29',
+          'popmech.ru' => '21',
+          'nod.ru' => '25',
+          'sql.ru' => '20',
+          'habrahabr.ru' => '12',
+          'sex.ru' => '28',
+          'render.ru' => '1',
+          'reg.ru' => '13',
+          'kaspersky.ru' => '24',
+          'securitylab.ru' => '22',
+          'warez.ru' => '14'
+        };
+
+[09:42:55] Closing database connection
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DRWEB.RU\nnserver:    ns.drweb.com.\nnserver:    ns2.drweb.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Doctor Web Ltd\nphone:      +7 095 7894587\nfax-no:     +7 095 7894597\ne-mail:     root@drweb.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.05.05\npaid-till:  2012.06.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '23')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     OPENNET.RU\nnserver:    ns.opennet.ru. 77.234.201.246\nnserver:    ns2.tyumen.ru.\nnserver:    ns3.tyumen.ru.\nstate:      REGISTERED, DELEGATED, UNVERIFIED\nperson:     Private Person\ne-mail:     mc@tyumen.ru\ne-mail:     maxim.chirkov@gmail.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.06.11\npaid-till:  2012.07.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '11')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     TRINIXY.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@trinixy.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2006.12.18\npaid-till:  2011.12.18\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '15')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     PEREPLET.RU\nnserver:    ns.sai.msu.ru.\nnserver:    ns1.cryptopro.ru.\nnserver:    ns2.cryptopro.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     lipunov@sai.msu.ru\ne-mail:     lipunov@sai.msu.su\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.04.07\npaid-till:  2012.05.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '30')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     YANDEX.RU\nnserver:    ns1.yandex.ru. 213.180.193.1\nnserver:    ns2.yandex.ru. 213.180.199.34\nnserver:    ns4.yandex.ru. 77.88.19.60\nnserver:    ns5.yandex.ru. 213.180.204.1\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        YANDEX, LLC.\nphone:      +7 495 7397000\nfax-no:     +7 495 7397070\ne-mail:     noc@yandex.net\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1997.09.23\npaid-till:  2012.10.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '2')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DWG.RU\nnserver:    ns3.nic.ru.\nnserver:    ns4.nic.ru.\nnserver:    ns8.nic.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     autokad@mail.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2004.07.28\npaid-till:  2012.07.28\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '19')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RAMBLER.RU\nnserver:    ns2.rambler.ru. 81.19.66.61\nnserver:    ns3.rambler.ru. 81.19.66.62\nnserver:    ns4.rambler.ru. 81.19.67.89\nnserver:    ns5.rambler.ru. 81.19.67.90\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Rambler Internet Holdings, LLC\nphone:      +7 495 9892909\nfax-no:     +7 495 9892908\ne-mail:     dns@rambler-co.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.09.26\npaid-till:  2012.08.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '3')
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     NEFART.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@nefart.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2009.03.26\npaid-till:  2012.03.26\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '18')
+[09:42:55] Closing database connection
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] WhoisInfo has been saved successfully
+[09:42:55] In saveWhoisInfo
+[09:42:55] Connected successfully
+[09:42:55] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     WEBPARK.RU\nnserver:    ns1.imedia.ru.\nnserver:    ns2.imedia.ru.\nnserver:    ns3.imedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        United Press\nphone:      +7 095 2329262\nphone:      +7 095 2323200\nfax-no:     +7 095 2329272\ne-mail:     noc@imedia.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2003.12.01\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '16')
+[09:42:55] Closing database connection
+[09:42:55] WhoisInfo has been saved successfully
+[09:43:27] In getDomainsList
+[09:43:27] Connected successfully
+[09:43:27] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[09:43:27] $VAR1 = {
+          'opennet.ru' => '11',
+          'trinixy.ru' => '15',
+          'pereplet.ru' => '30',
+          'drweb.ru' => '23',
+          'yandex.ru' => '2',
+          'dwg.ru' => '19',
+          'rambler.ru' => '3',
+          'nefart.ru' => '18',
+          'webpark.ru' => '16',
+          'papa.ru' => '26',
+          'bugaga.ru' => '17',
+          'mama.ru' => '27',
+          'codenet.ru' => '29',
+          'popmech.ru' => '21',
+          'nod.ru' => '25',
+          'sql.ru' => '20',
+          'habrahabr.ru' => '12',
+          'sex.ru' => '28',
+          'render.ru' => '1',
+          'reg.ru' => '13',
+          'kaspersky.ru' => '24',
+          'securitylab.ru' => '22',
+          'warez.ru' => '14'
+        };
+
+[09:43:27] Closing database connection
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     TRINIXY.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@trinixy.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2006.12.18\npaid-till:  2011.12.18\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '15')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     OPENNET.RU\nnserver:    ns.opennet.ru. 77.234.201.246\nnserver:    ns2.tyumen.ru.\nnserver:    ns3.tyumen.ru.\nstate:      REGISTERED, DELEGATED, UNVERIFIED\nperson:     Private Person\ne-mail:     mc@tyumen.ru\ne-mail:     maxim.chirkov@gmail.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.06.11\npaid-till:  2012.07.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '11')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DRWEB.RU\nnserver:    ns.drweb.com.\nnserver:    ns2.drweb.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Doctor Web Ltd\nphone:      +7 095 7894587\nfax-no:     +7 095 7894597\ne-mail:     root@drweb.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.05.05\npaid-till:  2012.06.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '23')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     PEREPLET.RU\nnserver:    ns.sai.msu.ru.\nnserver:    ns1.cryptopro.ru.\nnserver:    ns2.cryptopro.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     lipunov@sai.msu.ru\ne-mail:     lipunov@sai.msu.su\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.04.07\npaid-till:  2012.05.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '30')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     YANDEX.RU\nnserver:    ns1.yandex.ru. 213.180.193.1\nnserver:    ns2.yandex.ru. 213.180.199.34\nnserver:    ns4.yandex.ru. 77.88.19.60\nnserver:    ns5.yandex.ru. 213.180.204.1\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        YANDEX, LLC.\nphone:      +7 495 7397000\nfax-no:     +7 495 7397070\ne-mail:     noc@yandex.net\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1997.09.23\npaid-till:  2012.10.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '2')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DWG.RU\nnserver:    ns3.nic.ru.\nnserver:    ns4.nic.ru.\nnserver:    ns8.nic.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     autokad@mail.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2004.07.28\npaid-till:  2012.07.28\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '19')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RAMBLER.RU\nnserver:    ns2.rambler.ru. 81.19.66.61\nnserver:    ns3.rambler.ru. 81.19.66.62\nnserver:    ns4.rambler.ru. 81.19.67.89\nnserver:    ns5.rambler.ru. 81.19.67.90\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Rambler Internet Holdings, LLC\nphone:      +7 495 9892909\nfax-no:     +7 495 9892908\ne-mail:     dns@rambler-co.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.09.26\npaid-till:  2012.08.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '3')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     WEBPARK.RU\nnserver:    ns1.imedia.ru.\nnserver:    ns2.imedia.ru.\nnserver:    ns3.imedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        United Press\nphone:      +7 095 2329262\nphone:      +7 095 2323200\nfax-no:     +7 095 2329272\ne-mail:     noc@imedia.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2003.12.01\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '16')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     NEFART.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@nefart.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2009.03.26\npaid-till:  2012.03.26\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '18')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     BUGAGA.RU\nnserver:    ns1.draldo.com.\nnserver:    ns2.draldo.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     alex@100stars.net\nregistrar:  R01-REG-RIPN\ncreated:    2005.12.21\npaid-till:  2011.12.21\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '17')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     MAMA.RU\nnserver:    ns.lenta.ru.\nnserver:    ns.medmedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        OOO \"Medportal.ru\"\nphone:      +7 495 0000000\nfax-no:     +7 495 0000000\ne-mail:     minder@lenta-co.ru\nregistrar:  REGISTRATOR-REG-RIPN\ncreated:    1998.06.17\npaid-till:  2012.07.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '27')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     POPMECH.RU\nnserver:    ns1.imedia.ru.\nnserver:    ns2.imedia.ru.\nnserver:    ns3.imedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        United Press\nphone:      +7 095 2329262\nphone:      +7 095 2323200\nfax-no:     +7 095 2329272\ne-mail:     noc@imedia.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2005.10.19\npaid-till:  2012.10.19\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '21')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     CODENET.RU\nnserver:    ns1.nameself.com.\nnserver:    ns2.nameself.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     mike@novsu.ac.ru\nregistrar:  REGTIME-REG-RIPN\ncreated:    2001.04.24\npaid-till:  2012.04.26\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '29')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     SQL.RU\nnserver:    ns01.parking.ru.\nnserver:    ns11.parking.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@sql.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2000.03.20\npaid-till:  2012.04.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '20')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     NOD.RU\nnserver:    ns1.salenames.ru.\nnserver:    ns2.salenames.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        NETLINK LTD.\nphone:      +0 000 0000000\ne-mail:     ltdnetlink@gmail.com\nregistrar:  CENTROHOST-REG-RIPN\ncreated:    2006.12.19\npaid-till:  2011.12.19\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '25')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     HABRAHABR.RU\nnserver:    ns1.habradns.net.\nnserver:    ns2.habradns.net.\nstate:      REGISTERED, DELEGATED, UNVERIFIED\norg:        Invento Holdings Limited\nphone:      +7 495 0000000\nfax-no:     +7 495 0000000\ne-mail:     deniskin@gmail.com\ne-mail:     servers@thematicmedia.ru\nregistrar:  REGISTRATOR-REG-RIPN\ncreated:    2006.04.18\npaid-till:  2012.04.18\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '12')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RENDER.RU\nnserver:    ns1.render.ru. 81.9.6.2\nnserver:    ns2.render.ru. 81.222.132.251\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     stas@als.ru\ne-mail:     tech@als.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.11.19\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '1')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     SEX.RU\nnserver:    ns.vip.ru.\nnserver:    ns1.vip.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     hotgraf@hotmail.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.11.04\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '28')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:43:28] In saveWhoisInfo
+[09:43:28] Connected successfully
+[09:43:28] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     PAPA.RU\nnserver:    parking1.nic.ru.\nnserver:    parking2.nic.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     slitvinov@inbox.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.10.21\npaid-till:  2012.11.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '26')
+[09:43:28] Closing database connection
+[09:43:28] WhoisInfo has been saved successfully
+[09:45:09] In getDomainsList
+[09:45:09] Connected successfully
+[09:45:09] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[09:45:09] $VAR1 = {
+          'opennet.ru' => '11',
+          'trinixy.ru' => '15',
+          'pereplet.ru' => '30',
+          'drweb.ru' => '23',
+          'yandex.ru' => '2',
+          'dwg.ru' => '19',
+          'rambler.ru' => '3',
+          'nefart.ru' => '18',
+          'webpark.ru' => '16',
+          'papa.ru' => '26',
+          'bugaga.ru' => '17',
+          'mama.ru' => '27',
+          'codenet.ru' => '29',
+          'popmech.ru' => '21',
+          'nod.ru' => '25',
+          'sql.ru' => '20',
+          'habrahabr.ru' => '12',
+          'sex.ru' => '28',
+          'render.ru' => '1',
+          'reg.ru' => '13',
+          'kaspersky.ru' => '24',
+          'securitylab.ru' => '22',
+          'warez.ru' => '14'
+        };
+
+[09:45:09] Closing database connection
+[09:45:10] In saveWhoisInfo
+[09:45:10] Connected successfully
+[09:45:10] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     OPENNET.RU\nnserver:    ns.opennet.ru. 77.234.201.246\nnserver:    ns2.tyumen.ru.\nnserver:    ns3.tyumen.ru.\nstate:      REGISTERED, DELEGATED, UNVERIFIED\nperson:     Private Person\ne-mail:     mc@tyumen.ru\ne-mail:     maxim.chirkov@gmail.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.06.11\npaid-till:  2012.07.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '11')
+[09:45:10] Closing database connection
+[09:45:10] WhoisInfo has been saved successfully
+[09:45:10] In saveWhoisInfo
+[09:45:10] Connected successfully
+[09:45:10] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     TRINIXY.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@trinixy.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2006.12.18\npaid-till:  2011.12.18\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '15')
+[09:45:10] Closing database connection
+[09:45:10] WhoisInfo has been saved successfully
+[09:45:10] In saveWhoisInfo
+[09:45:10] Connected successfully
+[09:45:10] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     PEREPLET.RU\nnserver:    ns.sai.msu.ru.\nnserver:    ns1.cryptopro.ru.\nnserver:    ns2.cryptopro.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     lipunov@sai.msu.ru\ne-mail:     lipunov@sai.msu.su\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.04.07\npaid-till:  2012.05.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '30')
+[09:45:10] Closing database connection
+[09:45:10] WhoisInfo has been saved successfully
+[09:45:11] In saveWhoisInfo
+[09:45:11] Connected successfully
+[09:45:11] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DRWEB.RU\nnserver:    ns.drweb.com.\nnserver:    ns2.drweb.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Doctor Web Ltd\nphone:      +7 095 7894587\nfax-no:     +7 095 7894597\ne-mail:     root@drweb.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.05.05\npaid-till:  2012.06.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '23')
+[09:45:11] Closing database connection
+[09:45:11] WhoisInfo has been saved successfully
+[09:45:11] In saveWhoisInfo
+[09:45:11] Connected successfully
+[09:45:11] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     YANDEX.RU\nnserver:    ns1.yandex.ru. 213.180.193.1\nnserver:    ns2.yandex.ru. 213.180.199.34\nnserver:    ns4.yandex.ru. 77.88.19.60\nnserver:    ns5.yandex.ru. 213.180.204.1\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        YANDEX, LLC.\nphone:      +7 495 7397000\nfax-no:     +7 495 7397070\ne-mail:     noc@yandex.net\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1997.09.23\npaid-till:  2012.10.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '2')
+[09:45:11] Closing database connection
+[09:45:11] WhoisInfo has been saved successfully
+[09:45:11] In saveWhoisInfo
+[09:45:11] Connected successfully
+[09:45:11] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     DWG.RU\nnserver:    ns3.nic.ru.\nnserver:    ns4.nic.ru.\nnserver:    ns8.nic.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     autokad@mail.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2004.07.28\npaid-till:  2012.07.28\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '19')
+[09:45:11] Closing database connection
+[09:45:11] WhoisInfo has been saved successfully
+[09:45:11] In saveWhoisInfo
+[09:45:11] Connected successfully
+[09:45:11] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RAMBLER.RU\nnserver:    ns2.rambler.ru. 81.19.66.61\nnserver:    ns3.rambler.ru. 81.19.66.62\nnserver:    ns4.rambler.ru. 81.19.67.89\nnserver:    ns5.rambler.ru. 81.19.67.90\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        Rambler Internet Holdings, LLC\nphone:      +7 495 9892909\nfax-no:     +7 495 9892908\ne-mail:     dns@rambler-co.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.09.26\npaid-till:  2012.08.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '3')
+[09:45:11] Closing database connection
+[09:45:11] WhoisInfo has been saved successfully
+[09:45:12] In saveWhoisInfo
+[09:45:12] Connected successfully
+[09:45:12] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     NEFART.RU\nnserver:    ns1.trinixy.com.\nnserver:    ns2.trinixy.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@nefart.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2009.03.26\npaid-till:  2012.03.26\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '18')
+[09:45:12] Closing database connection
+[09:45:12] WhoisInfo has been saved successfully
+[09:45:12] In saveWhoisInfo
+[09:45:12] Connected successfully
+[09:45:12] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     WEBPARK.RU\nnserver:    ns1.imedia.ru.\nnserver:    ns2.imedia.ru.\nnserver:    ns3.imedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        United Press\nphone:      +7 095 2329262\nphone:      +7 095 2323200\nfax-no:     +7 095 2329272\ne-mail:     noc@imedia.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2003.12.01\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '16')
+[09:45:12] Closing database connection
+[09:45:12] WhoisInfo has been saved successfully
+[09:45:12] In saveWhoisInfo
+[09:45:12] Connected successfully
+[09:45:12] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     PAPA.RU\nnserver:    parking1.nic.ru.\nnserver:    parking2.nic.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     slitvinov@inbox.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1998.10.21\npaid-till:  2012.11.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '26')
+[09:45:12] Closing database connection
+[09:45:12] WhoisInfo has been saved successfully
+[09:45:12] In saveWhoisInfo
+[09:45:12] Connected successfully
+[09:45:12] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     BUGAGA.RU\nnserver:    ns1.draldo.com.\nnserver:    ns2.draldo.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     alex@100stars.net\nregistrar:  R01-REG-RIPN\ncreated:    2005.12.21\npaid-till:  2011.12.21\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '17')
+[09:45:12] Closing database connection
+[09:45:12] WhoisInfo has been saved successfully
+[09:45:13] In saveWhoisInfo
+[09:45:13] Connected successfully
+[09:45:13] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     MAMA.RU\nnserver:    ns.lenta.ru.\nnserver:    ns.medmedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        OOO \"Medportal.ru\"\nphone:      +7 495 0000000\nfax-no:     +7 495 0000000\ne-mail:     minder@lenta-co.ru\nregistrar:  REGISTRATOR-REG-RIPN\ncreated:    1998.06.17\npaid-till:  2012.07.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '27')
+[09:45:13] Closing database connection
+[09:45:13] WhoisInfo has been saved successfully
+[09:45:13] In saveWhoisInfo
+[09:45:13] Connected successfully
+[09:45:13] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     CODENET.RU\nnserver:    ns1.nameself.com.\nnserver:    ns2.nameself.com.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     mike@novsu.ac.ru\nregistrar:  REGTIME-REG-RIPN\ncreated:    2001.04.24\npaid-till:  2012.04.26\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '29')
+[09:45:13] Closing database connection
+[09:45:13] WhoisInfo has been saved successfully
+[09:45:13] In saveWhoisInfo
+[09:45:13] Connected successfully
+[09:45:13] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     POPMECH.RU\nnserver:    ns1.imedia.ru.\nnserver:    ns2.imedia.ru.\nnserver:    ns3.imedia.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        United Press\nphone:      +7 095 2329262\nphone:      +7 095 2323200\nfax-no:     +7 095 2329272\ne-mail:     noc@imedia.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2005.10.19\npaid-till:  2012.10.19\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '21')
+[09:45:13] Closing database connection
+[09:45:13] WhoisInfo has been saved successfully
+[09:45:13] In saveWhoisInfo
+[09:45:13] Connected successfully
+[09:45:13] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     NOD.RU\nnserver:    ns1.salenames.ru.\nnserver:    ns2.salenames.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\norg:        NETLINK LTD.\nphone:      +0 000 0000000\ne-mail:     ltdnetlink@gmail.com\nregistrar:  CENTROHOST-REG-RIPN\ncreated:    2006.12.19\npaid-till:  2011.12.19\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '25')
+[09:45:13] Closing database connection
+[09:45:13] WhoisInfo has been saved successfully
+[09:45:14] In saveWhoisInfo
+[09:45:14] Connected successfully
+[09:45:14] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     SQL.RU\nnserver:    ns01.parking.ru.\nnserver:    ns11.parking.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     admin@sql.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    2000.03.20\npaid-till:  2012.04.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '20')
+[09:45:14] Closing database connection
+[09:45:14] WhoisInfo has been saved successfully
+[09:45:14] In saveWhoisInfo
+[09:45:14] Connected successfully
+[09:45:14] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     HABRAHABR.RU\nnserver:    ns1.habradns.net.\nnserver:    ns2.habradns.net.\nstate:      REGISTERED, DELEGATED, UNVERIFIED\norg:        Invento Holdings Limited\nphone:      +7 495 0000000\nfax-no:     +7 495 0000000\ne-mail:     deniskin@gmail.com\ne-mail:     servers@thematicmedia.ru\nregistrar:  REGISTRATOR-REG-RIPN\ncreated:    2006.04.18\npaid-till:  2012.04.18\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '12')
+[09:45:14] Closing database connection
+[09:45:14] WhoisInfo has been saved successfully
+[09:45:14] In saveWhoisInfo
+[09:45:14] Connected successfully
+[09:45:14] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     SEX.RU\nnserver:    ns.vip.ru.\nnserver:    ns1.vip.ru.\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     hotgraf@hotmail.com\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1996.11.04\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n', NOW(), '28')
+[09:45:14] Closing database connection
+[09:45:14] WhoisInfo has been saved successfully
+[09:45:14] In saveWhoisInfo
+[09:45:14] Connected successfully
+[09:45:14] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% By submitting a query to RIPN\'s Whois Service\n% you agree to abide by the following terms of use:\n% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \n% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\n\ndomain:     RENDER.RU\nnserver:    ns1.render.ru. 81.9.6.2\nnserver:    ns2.render.ru. 81.222.132.251\nstate:      REGISTERED, DELEGATED, VERIFIED\nperson:     Private Person\ne-mail:     stas@als.ru\ne-mail:     tech@als.ru\nregistrar:  RU-CENTER-REG-RIPN\ncreated:    1999.11.19\npaid-till:  2011.12.01\nsource:     TCI\n\nLast updated on 2011.10.24 10:40:46 MSK/MSD\n\n% You have exceeded allowed connection rate. \n% Please try to connect later. \n% See http://www.ripn.net/about/en/servpol.html#3.2 \n% for details.\n', NOW(), '1')
+[09:45:14] Closing database connection
+[09:45:14] WhoisInfo has been saved successfully
+[09:45:15] In saveWhoisInfo
+[09:45:15] Connected successfully
+[09:45:15] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% You have exceeded allowed connection rate. \n% Please try to connect later. \n% See http://www.ripn.net/about/en/servpol.html#3.2 \n% for details.\n', NOW(), '13')
+[09:45:15] Closing database connection
+[09:45:15] WhoisInfo has been saved successfully
+[09:45:15] In saveWhoisInfo
+[09:45:15] Connected successfully
+[09:45:15] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% You have exceeded allowed connection rate. \n% Please try to connect later. \n% See http://www.ripn.net/about/en/servpol.html#3.2 \n% for details.\n', NOW(), '24')
+[09:45:15] Closing database connection
+[09:45:15] WhoisInfo has been saved successfully
+[09:45:16] In saveWhoisInfo
+[09:45:16] Connected successfully
+[09:45:16] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% You have exceeded allowed connection rate. \n% Please try to connect later. \n% See http://www.ripn.net/about/en/servpol.html#3.2 \n% for details.\n', NOW(), '22')
+[09:45:16] Closing database connection
+[09:45:16] WhoisInfo has been saved successfully
+[09:45:16] In saveWhoisInfo
+[09:45:16] Connected successfully
+[09:45:16] Query: INSERT whois_data (info, sync_date, domain_id)  VALUES ('% You have exceeded allowed connection rate. \n% Please try to connect later. \n% See http://www.ripn.net/about/en/servpol.html#3.2 \n% for details.\n', NOW(), '14')
+[09:45:16] Closing database connection
+[09:45:16] WhoisInfo has been saved successfully

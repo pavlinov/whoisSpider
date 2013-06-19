@@ -1,0 +1,150 @@
+[21:47:12] In getDomainsList
+[21:47:12] Connected successfully
+[21:47:12] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[21:50:21] In getDomainsList
+[21:50:21] Connected successfully
+[21:50:21] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:38:46] In getDomainsList
+[22:38:46] Connected successfully
+[22:38:46] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:38:46] Closing database connection
+[22:39:44] In getDomainsList
+[22:39:44] Connected successfully
+[22:39:44] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:47:04] In getDomainsList
+[22:47:04] Connected successfully
+[22:47:04] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:47:37] In getDomainsList
+[22:47:37] Connected successfully
+[22:47:37] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:48:29] In getDomainsList
+[22:48:29] Connected successfully
+[22:48:29] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:48:45] In getDomainsList
+[22:48:45] Connected successfully
+[22:48:45] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:49:04] In getDomainsList
+[22:49:04] Connected successfully
+[22:49:04] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:54:22] In getDomainsList
+[22:54:22] Connected successfully
+[22:54:22] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:54:22] setError: DOMAINS NOT FOUND: 
+[22:55:11] In getDomainsList
+[22:55:11] Connected successfully
+[22:55:11] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:55:11] setError: DOMAINS NOT FOUND
+[22:55:40] In getDomainsList
+[22:55:40] Connected successfully
+[22:55:40] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[22:55:40] setError: DOMAINS NOT FOUND
+[23:00:49] In getDomainsList
+[23:00:49] Connected successfully
+[23:00:49] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:00:49] setError: DOMAINS NOT FOUND
+[23:00:57] In getDomainsList
+[23:00:57] Connected successfully
+[23:00:57] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:00:57] setError: DOMAINS NOT FOUND
+[23:01:36] In getDomainsList
+[23:01:36] Connected successfully
+[23:01:36] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:01:36] setError: DOMAINS NOT FOUND
+[23:02:21] In getDomainsList
+[23:02:21] Connected successfully
+[23:02:21] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:02:21] setError: DOMAINS NOT FOUND
+[23:02:43] In getDomainsList
+[23:02:43] Connected successfully
+[23:02:43] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:03:23] In getDomainsList
+[23:03:23] Connected successfully
+[23:03:23] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:04:30] In getDomainsList
+[23:04:30] Connected successfully
+[23:04:30] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:08:59] In getDomainsList
+[23:08:59] Connected successfully
+[23:08:59] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:08:59] setError: DOMAINS NOT FOUND
+[23:09:33] In getDomainsList
+[23:09:33] Connected successfully
+[23:09:33] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:09:51] In getDomainsList
+[23:09:51] Connected successfully
+[23:09:51] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:12:07] In getDomainsList
+[23:12:07] Connected successfully
+[23:12:07] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:14:43] In getDomainsList
+[23:14:43] Connected successfully
+[23:14:43] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:14:54] In getDomainsList
+[23:14:54] Connected successfully
+[23:14:54] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:14:54] setError: DOMAINS NOT FOUND
+[23:16:08] In getDomainsList
+[23:16:08] Connected successfully
+[23:16:08] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:16:08] setError: DOMAINS NOT FOUND
+[23:16:20] In getDomainsList
+[23:16:20] Connected successfully
+[23:16:20] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:23:14] In getDomainsList
+[23:23:14] Connected successfully
+[23:23:14] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:23:14] Closing database connection
+[23:23:36] In getDomainsList
+[23:23:36] Connected successfully
+[23:23:36] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:24:41] In getDomainsList
+[23:24:41] Connected successfully
+[23:24:41] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:24:41] Closing database connection
+[23:25:17] In getDomainsList
+[23:25:17] Connected successfully
+[23:25:17] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:25:17] Closing database connection
+[23:25:58] In getDomainsList
+[23:25:58] Connected successfully
+[23:25:58] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:25:58] Closing database connection
+[23:26:58] In getDomainsList
+[23:26:58] Connected successfully
+[23:26:58] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:32:01] In getDomainsList
+[23:32:01] Connected successfully
+[23:32:01] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:32:01] Closing database connection
+[23:32:27] In getDomainsList
+[23:32:27] Connected successfully
+[23:32:27] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:32:27] Closing database connection
+[23:32:43] In getDomainsList
+[23:32:43] Connected successfully
+[23:32:43] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:32:43] Closing database connection
+[23:33:07] In getDomainsList
+[23:33:07] Connected successfully
+[23:33:07] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:33:07] Closing database connection
+[23:33:16] In getDomainsList
+[23:33:16] Connected successfully
+[23:33:16] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:33:16] Closing database connection
+[23:34:29] In getDomainsList
+[23:34:29] Connected successfully
+[23:34:29] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:34:29] Closing database connection
+[23:42:30] In getDomainsList
+[23:42:30] Connected successfully
+[23:42:30] Query: SELECT domain, domain_id FROM domains WHERE Tld='.рф'
+[23:42:30] Closing database connection
+[23:48:47] In getDomainsList
+[23:48:47] Connected successfully
+[23:48:47] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:48:47] Closing database connection
+[23:48:59] In getDomainsList
+[23:48:59] Connected successfully
+[23:48:59] Query: SELECT domain, domain_id FROM domains WHERE Tld='.ru'
+[23:48:59] Closing database connection
